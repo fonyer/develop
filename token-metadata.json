@@ -1,0 +1,7 @@
+{
+  "name": "My Awesome Token",
+  "symbol": "MAT",
+  "description": "This is a test token created for demonstration purposes.",
+  "image": "https://github.com/fonyer/develop/blob/master/doge.png", // 建议 200x200 PNG
+  "website": "https://github.com/fonyer"
+}
